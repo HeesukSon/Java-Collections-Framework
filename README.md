@@ -10,9 +10,7 @@ You can view my Java Collections framework description here (You may need draw.i
 [(Eng)](https://drive.google.com/file/d/1kir04gZonXd7kGDNVUebhjmy5PQQLlr9/view?usp=sharing) 
 [(Kor)](https://drive.google.com/file/d/1c5Q3hC_UC47iD7IDI7nxRR-R-05giVtO/view?usp=sharing). 
 
-If you don't use draw.io, you can download a converted image of the up-to-date draw.io document by clicking the links below:
-[(Eng)](https://drive.google.com/file/d/1f6EkIQrjWr7z6-JwPjg_m18KMkDU4HmL/view?usp=sharing)
-[(Kor)](https://drive.google.com/file/d/1mDgrxxHIN7b0tl5-SOL-nMxsglGGr_ss/view?usp=sharing)
+If you don't use draw.io, you can download a converted image of the up-to-date draw.io document which is uploaded to this github repository.
 
 Here is the snapshot image of the document:
 ![Snapshot: Java Collections Framework Overview (eng)](https://github.com/HeesukSon/Java-Collections-Framework/blob/master/Java%20Collections%20Framework%20Overview%20(eng).png)
