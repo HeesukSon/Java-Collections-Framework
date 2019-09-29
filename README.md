@@ -8,8 +8,8 @@ FYI, Map is not a part of Java Collections framework, but I added a brief descri
 
 You can view my Java Collections framework description here (You may need draw.io to view this document): 
 
-[(Eng)](https://drive.google.com/file/d/1kir04gZonXd7kGDNVUebhjmy5PQQLlr9/view?usp=sharing) 
-[(Kor)](https://drive.google.com/file/d/1c5Q3hC_UC47iD7IDI7nxRR-R-05giVtO/view?usp=sharing). 
+[(Eng. Version)](https://drive.google.com/file/d/1kir04gZonXd7kGDNVUebhjmy5PQQLlr9/view?usp=sharing) 
+[(Kor. Version)](https://drive.google.com/file/d/1c5Q3hC_UC47iD7IDI7nxRR-R-05giVtO/view?usp=sharing) 
 
 If you don't use draw.io, you can download a converted image of the up-to-date draw.io document which is uploaded to this github repository.
 
