@@ -15,4 +15,4 @@ If you don't use draw.io, you can download a converted image of the up-to-date d
 [(Kor)](https://drive.google.com/file/d/1mDgrxxHIN7b0tl5-SOL-nMxsglGGr_ss/view?usp=sharing)
 
 Here is the snapshot image of the document:
-![Snapshot: Java Collections Framework Overview (eng)](Java Collections Framework Overview (eng).png)
+![Snapshot: Java Collections Framework Overview (eng)](https://github.com/HeesukSon/Java-Collections-Framework/blob/master/Java%20Collections%20Framework%20Overview%20(eng).png)
