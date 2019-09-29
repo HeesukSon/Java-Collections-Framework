@@ -15,4 +15,4 @@ If you don't use draw.io, you can download a converted image of the up-to-date d
 [(Kor)](https://drive.google.com/file/d/1mDgrxxHIN7b0tl5-SOL-nMxsglGGr_ss/view?usp=sharing)
 
 Here is the snapshot image of the document:
-![Drag Racing](Dragster.jpg)
+![Snapshot: Java Collections Framework Overview (eng)](Java Collections Framework Overview (eng).png)
