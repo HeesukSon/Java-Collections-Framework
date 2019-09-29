@@ -6,6 +6,10 @@ This project is to provide an easy-to-understand overview of Java Collections fr
 
 FYI, Map is not a part of Java Collections framework, but I added a brief description about the Map Interface and its implementations (e.g., HashMap) because so many people think Map is also a part of Collections framework.
 
-[Here you can view a Korean version of my Java Collections framework description. You may need draw.io to view this document.](https://drive.google.com/file/d/1xR9If5fsMtDhNhUcYz9L7NxVCGMfZGha/view?usp=sharing)
+[Here you can view my Java Collections framework description. You may need draw.io to view this document.](https://drive.google.com/file/d/1kir04gZonXd7kGDNVUebhjmy5PQQLlr9/view?usp=sharing)
 
-[If you don't use draw.io, you can download a converted image of the up-to-date draw.io document by clicking this link.](https://drive.google.com/file/d/1_DB0_ADSUB5qkUiLF_ABgcVr5J9SI-X-/view?usp=sharing)
+[A Korean version can be viewed here.](https://drive.google.com/file/d/1c5Q3hC_UC47iD7IDI7nxRR-R-05giVtO/view?usp=sharing)
+
+If you don't use draw.io, you can download a converted image of the up-to-date draw.io document by clicking the links below:
+[(Eng)](https://drive.google.com/file/d/1f6EkIQrjWr7z6-JwPjg_m18KMkDU4HmL/view?usp=sharing)
+[(Kor)](https://drive.google.com/file/d/1mDgrxxHIN7b0tl5-SOL-nMxsglGGr_ss/view?usp=sharing)
