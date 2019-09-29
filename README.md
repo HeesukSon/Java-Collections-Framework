@@ -14,4 +14,5 @@ You can view my Java Collections framework description here (You may need draw.i
 If you don't use draw.io, you can download a converted image of the up-to-date draw.io document which is uploaded to this github repository.
 
 Here is the snapshot image of the document:
+
 ![Snapshot: Java Collections Framework Overview (eng)](https://github.com/HeesukSon/Java-Collections-Framework/blob/master/Java%20Collections%20Framework%20Overview%20(eng).png)
