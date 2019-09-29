@@ -13,3 +13,6 @@ You can view my Java Collections framework description here (You may need draw.i
 If you don't use draw.io, you can download a converted image of the up-to-date draw.io document by clicking the links below:
 [(Eng)](https://drive.google.com/file/d/1f6EkIQrjWr7z6-JwPjg_m18KMkDU4HmL/view?usp=sharing)
 [(Kor)](https://drive.google.com/file/d/1mDgrxxHIN7b0tl5-SOL-nMxsglGGr_ss/view?usp=sharing)
+
+Here is the snapshot image of the document:
+![Drag Racing](Dragster.jpg)
