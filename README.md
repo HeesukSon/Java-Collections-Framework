@@ -3,4 +3,4 @@ While preparing for a coding interview, I found that all useful information are 
 
 [Here you can view a Korean version of my Java Collections framework description. You may need draw.io to view this document.](https://drive.google.com/file/d/1xR9If5fsMtDhNhUcYz9L7NxVCGMfZGha/view?usp=sharing)
  
-![java-collections-framework-kor] https://drive.google.com/file/d/1_DB0_ADSUB5qkUiLF_ABgcVr5J9SI-X-/view?usp=sharing "Java Collections Framework Description Image (Kor)")
+[If you don't use draw.io, you can download up-to-date converted image by clicking this link.] (https://drive.google.com/file/d/1_DB0_ADSUB5qkUiLF_ABgcVr5J9SI-X-/view?usp=sharing)
