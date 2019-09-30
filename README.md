@@ -15,4 +15,4 @@ If you don't use draw.io, you can download a converted image of the up-to-date d
 
 Here is the snapshot image of the document:
 
-![Snapshot: Java Collections Framework Overview (eng)](https://github.com/HeesukSon/Java-Collections-Framework/blob/master/Java%20Collections%20Framework%20Overview%20(eng).png)
+![Snapshot: Java Collections Framework Overview (eng)](https://github.com/HeesukSon/Java-Collections-Framework/blob/master/images/Java%20Collections%20Framework%20Overview%20(eng).png)
